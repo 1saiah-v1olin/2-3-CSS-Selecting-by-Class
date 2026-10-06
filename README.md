@@ -1,4 +1,4 @@
-# 2-3-CSS-Selecting-by-Class <br>
+3# 2-3-CSS-Selecting-by-Class <br>
 
 ## Video
 [CSS Selecting by Class](https://youtu.be/xiGguPT09sQ) <-- Make sure to watch this video first
